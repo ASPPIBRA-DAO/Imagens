@@ -26,3 +26,7 @@ https://lexica.art/
 https://pixlr.com/br/x/#home
 
 https://tinywow.com/
+
+https://replicate.com/explore
+
+https://converter.app/png-to-svg/result.php?lang=pt
